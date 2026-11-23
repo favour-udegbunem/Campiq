@@ -4,21 +4,21 @@ import { FiMessageCircle } from 'react-icons/fi'
 const testimonials = [
   {
     id: 1,
-    quote: 'Add an approved testimonial from a CAMPIQ client here.',
-    name: 'Client Name',
-    role: 'Client / Organization',
+    quote: 'Working With CAMPIQ has been a game-changer for our business.',
+    name: 'Solex',
+    role: 'Solex Eve Empire / Founder',
   },
   {
     id: 2,
-    quote: 'Add another genuine client experience or feedback here.',
-    name: 'Client Name',
-    role: 'Client / Organization',
+    quote: 'The team at CAMPIQ delivered beyond our expectations.',
+    name: 'Coach Precious',
+    role: 'GLobal Giant Girls / Founder',
   },
   {
     id: 3,
-    quote: 'Share feedback that reflects the experience of working with CAMPIQ.',
-    name: 'Client Name',
-    role: 'Client / Organization',
+    quote: 'CAMPIQ’s creativity and professionalism are unmatched.',
+    name: 'Mra. Chiemela',
+    role: 'Solaris Green Tech Hub / Founder',
   },
 ]
 
